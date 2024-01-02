@@ -7,7 +7,6 @@ public class Student {
 	public char sex;
 	public boolean isProgrammer;
 	public float grade;
-// Test
 	public Student() { // Default constructor declared
 		System.out.println(":------This is from the default Constructor of the Student class------:");
 	}
