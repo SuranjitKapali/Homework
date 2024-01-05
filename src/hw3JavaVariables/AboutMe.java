@@ -14,7 +14,7 @@ public class AboutMe {
 	
 	
 	public AboutMe() { //Constructor declared here
-		System.out.println(":---------- This is all about Muyself ----------:");
+		System.out.println(":---------- This is all about Myself ----------:");
 		System.out.println("----------My name is Suranjit Kapali.---------");
 	}
 }
