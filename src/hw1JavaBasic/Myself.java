@@ -1,6 +1,6 @@
 package hw1JavaBasic;
 
-/*HomeWork Suranjit Kapali;
+/* HomeWork Suranjit Kapali;
  * My package name is hw1JavaBasic;
  * My class is about MySelf
  */
